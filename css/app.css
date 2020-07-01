@@ -1,0 +1,16 @@
+body{
+    background-color: #e2d9d9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h5{
+    font-family: 'Ubuntu', cursive;
+    font-size: small;
+    font-weight: bolder;
+    align-content: right;
+}
+
+:host(.belownav){
+    height:250px;
+}
